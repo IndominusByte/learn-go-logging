@@ -1,0 +1,6 @@
+time="2022-09-20T17:57:41+08:00" level=info msg="Hello info"
+time="2022-09-20T17:57:41+08:00" level=warning msg="Hello warn"
+time="2022-09-20T17:57:41+08:00" level=error msg="Hello error"
+time="2022-09-20T18:03:15+08:00" level=info msg="Hello info"
+time="2022-09-20T18:03:15+08:00" level=warning msg="Hello warn"
+time="2022-09-20T18:03:15+08:00" level=error msg="Hello error"
